@@ -1,3 +1,5 @@
+# Author: Rohan Singh
+
 import numpy as np
 import qiskit
 from qiskit_experiments.library import T2Ramsey
